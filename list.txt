@@ -1,0 +1,3 @@
+history_command.txt
+list.txt
+new_words.txt
